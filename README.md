@@ -39,35 +39,35 @@ PREPARATION PHASE - Completed
 
 IDEATION PHASE:
 
-Literature Survey - Completed
-Empathy Map - Completed
-Problem Statement - Completed
-Brainstorm & Idea Prioritization (Ideation) - Completed
+    Literature Survey - Completed
+    Empathy Map - Completed
+    Problem Statement - Completed
+    Brainstorm & Idea Prioritization (Ideation) - Completed
 
 PROJECT DESIGN PHASE - 1
 
-Proposed Solution - Completed
-Problem Solution Fit - Completed
-Solution Architecture - Completed
+    Proposed Solution - Completed
+    Problem Solution Fit - Completed
+    Solution Architecture - Completed
 
 PROJECT DESIGN PHASE - 2
 
-Customer Journey - Completed
-Data Flow Diagrams & User Stories - Completed
-Technology Stack (Architecture & Stack) - Completed
-Solution Requirements (Functional Requirements) - Completed
+    Customer Journey - Completed
+    Data Flow Diagrams & User Stories - Completed
+    Technology Stack (Architecture & Stack) - Completed
+    Solution Requirements (Functional Requirements) - Completed
 
 PROJECT PLANNING PHASE:
 
-Milestone & Activity - Completed
-Sprint Delivery Plan - Completed
+    Milestone & Activity - Completed
+    Sprint Delivery Plan - Completed
 
 PROJECT DEVELOPMENT PHASE:
 
-Delivery of Sprint-1 - Completed
-Delivery of Sprint-2 - Completed
-Delivery of Sprint-3 - Completed
-Delivery of Sprint-4 - Completed
+    Delivery of Sprint-1 - Completed
+    Delivery of Sprint-2 - Completed
+    Delivery of Sprint-3 - Completed
+    Delivery of Sprint-4 - Completed
 
 FINAL DELIVERABLES - Completed
 
