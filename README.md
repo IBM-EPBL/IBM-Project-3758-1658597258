@@ -39,7 +39,7 @@ PREPARATION PHASE - Completed
 
 IDEATION PHASE:
 
-    -->Literature Survey - Completed
+    --> Literature Survey - Completed
     --> Empathy Map - Completed
     --> Problem Statement - Completed
     --> Brainstorm & Idea Prioritization (Ideation) - Completed
